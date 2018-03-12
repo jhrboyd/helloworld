@@ -5,5 +5,5 @@
 #dim all
 
 function pbmain() as long
-  print "Greetings..."
+  print "Hello world!"
 end function
